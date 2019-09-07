@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">fatec_ipi_pdm_gps_mapas</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_gps_no_app">Sem GPS não vai rolar!</string>
+    <string name="lat_long">Lat: %f Long: %f</string>
+    <string name="uri_mapa">geo:%f, %f?q=restaurantes</string>
+</resources>
